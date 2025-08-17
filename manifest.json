@@ -1,0 +1,15 @@
+{
+   "action": {
+      "default_popup": "popup.html"
+   },
+   "chrome_url_overrides": {
+      "newtab": "newtabpage.html"
+   },
+   "description": "Hey, now you can use any image on the web as background for new chrome tab? just give the absolute image url and that's it",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsZ9XbrXyQ3Wu+pt56CTUdQjRrTwfJJtYJEKEhm/5akCVFJWFaSCy3owAY7howuiHhFs8rq4OjC60icUE9Z8WrFPRN1K/TA4KdrpjBWSlvtpGbT564ch7ixPlL7EfWXEM+EL2ZV5PwNtsuxUaVDzky0BAZGAzaMwPOIdoUmUFfuxi2EWJAe/rQnrmY3siSZY0Adfi7SUX/2Aija460ndvuzUrYmJSwsCHgzmjM9V163Vf//s1AHItGC0IwhFgHY9eE84k9ocDvTyMD+QwAI4WzPAOm0OJ2UiytQDfnw2zW6f2GiMg292d2TJIPrnRfezT0b4UHbxbonK6hEo3X8CnJQIDAQAB",
+   "manifest_version": 3,
+   "name": "Customise-newtab",
+   "permissions": [ "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.1"
+}
